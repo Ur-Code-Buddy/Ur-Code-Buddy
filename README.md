@@ -2,7 +2,9 @@
 Hi there! 👋
 
 My name is Baivab, and I'm a student with a passion for Arduino, electronics, and Python. Welcome to my GitHub profile!
-About Me
+
+
+**About Me**
 
 I'm currently a student at Sri Aurobindo Internation Center of education, where I am studying Maths Computer and Electronics. My technical interests include Robitics and Programming, and I love exploring new technologies and learning new things.
 
