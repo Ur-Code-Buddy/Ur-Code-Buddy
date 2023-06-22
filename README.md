@@ -8,7 +8,7 @@ My name is Baivab, and I'm a student with a passion for Arduino, electronics, an
 
 I'm currently a student at Sri Aurobindo Internation Center of education, where I am studying Maths Computer and Electronics. My technical interests include Robitics and Programming, and I love exploring new technologies and learning new things.
 
-When I'm not working on projects, you can find me on Instagram. I also love painting, and I'm always looking for new ways to expand my horizons.
+When I'm not working on projects, you can find me on Instagram. I also like working with microcontrollers, and I'm always looking for new ways to expand my horizons.
 My Skills
 
 Here are some of the skills I have developed over the years:
