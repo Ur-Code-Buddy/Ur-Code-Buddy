@@ -1,67 +1,36 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# UrCodeBuddy
+Hi there! 👋
 
-###
+My name is Baivab, and I'm a student with a passion for Arduino, electronics, and Python. Welcome to my GitHub profile!
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
-###
+**About Me**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+I'm currently a student at Sri Aurobindo Internation Center of education, where I am studying Maths Computer and Electronics. My technical interests include Robitics and Programming, and I love exploring new technologies and learning new things.
 
-###
+When I'm not working on projects, you can find me on Instagram. I also like working with microcontrollers, and I'm always looking for new ways to expand my horizons.
+My Skills
 
-<h1 align="center">hey there 👋</h1>
+Here are some of the skills I have developed over the years:
 
-###
+Arduino: I have experience with Arudino Uno, Esps and Raspberry-pi and have made projects like
+  Quad Copters and Self balancing Robots.
+Electronics: I have a strong understanding of basic Electronics, 
+  and I have worked on projects such as Gate Making.
+Python: I am confident in Python Programming, 
+  and I have used Python to develop projects such as Todo apps and a few websites.
 
-<h3 align="left">👩‍💻  About Me</h3>
+My Projects
 
-###
+Here are some of the projects I have worked on:
 
-<p align="left">I'm Baivab from Puducherry <br><br>- 🔭 I’m doing my bachelors in Computer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I paint</p>
+- Arduino Project: Smart Home Control System - A project that uses Arduino to control the lights, temperature, and security system in a home using a mobile app or voice commands.
+- Electronics Project: Wireless Sensor Network for Environmental Monitoring - A project that uses sensors to measure temperature, humidity, and air quality, and transmits the data wirelessly to a central hub for monitoring and analysis.
+- Python Project: Web Scraping and Data Visualization for Movie Reviews - I created a project that uses Python to scrape movie review data from websites like Rotten Tomatoes or IMDb. Using popular Python data visualization libraries like Matplotlib and Seaborn, I was able to transform the raw data into informative and interactive visualizations. This project allowed me to showcase my skills in Python, web scraping, data analysis, and data visualization, and provided me with valuable insights into movie ratings and reviews.
 
-###
+You can find more of my projects on my https://github.com/Ur-Code-Buddy, and all of my code is available on GitHub.
+Get in Touch
 
-<h3 align="left">🛠 Language and tools</h3>
+I'm always interested in connecting with other developers and learning from their experiences. If you'd like to get in touch, you can find me on https://www.instagram.com/baivab_/ or email me at 05baivab@gmail.com.
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+Thanks for stopping by!
