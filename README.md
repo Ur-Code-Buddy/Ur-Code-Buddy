@@ -28,7 +28,7 @@ Here are some of the projects I have worked on:
 - Electronics Project: Wireless Sensor Network for Environmental Monitoring - A project that uses sensors to measure temperature, humidity, and air quality, and transmits the data wirelessly to a central hub for monitoring and analysis.
 - Python Project: Web Scraping and Data Visualization for Movie Reviews - I created a project that uses Python to scrape movie review data from websites like Rotten Tomatoes or IMDb. Using popular Python data visualization libraries like Matplotlib and Seaborn, I was able to transform the raw data into informative and interactive visualizations. This project allowed me to showcase my skills in Python, web scraping, data analysis, and data visualization, and provided me with valuable insights into movie ratings and reviews.
 
-You can find more of my projects on my https://github.com/Ur-Code-Buddy, and all of my code is available on GitHub.
+You can find more of my projects on this account, most of my code is available on GitHub, if it's private, please send me a message and I will send it.
 Get in Touch
 
 I'm always interested in connecting with other developers and learning from their experiences. If you'd like to get in touch, you can find me on https://www.instagram.com/baivab_/ or email me at 05baivab@gmail.com.
