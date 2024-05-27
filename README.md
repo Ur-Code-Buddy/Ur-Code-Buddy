@@ -48,4 +48,4 @@ Thanks for stopping by!
 
 <br> <h1></h1></br>
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://github.com/Ur-Code-Buddy/"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
