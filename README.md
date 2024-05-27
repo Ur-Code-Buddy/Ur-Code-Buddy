@@ -2,7 +2,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Ur-Code-Buddy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Baivab Leetcode's stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://github.com/Ur-Code-Buddy/README.md)
+[![Baivab Leetcode's stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://github.com/Ur-Code-Buddy/Ur-Code-Buddy/blob/main/README.md)
 
 <a href = "https://github.com/Ur-Code-Buddy/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Ur-Code-Buddy/calthon"/>
