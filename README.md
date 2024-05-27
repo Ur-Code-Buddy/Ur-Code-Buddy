@@ -4,10 +4,6 @@
 
 [![Baivab Leetcode's stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://leetcode.com/u/baivabd/)
 
-<a href = "https://github.com/Ur-Code-Buddy/simple-sqlite/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Ur-Code-Buddy/calthon"/>
-</a>
-
 <br> <h1></h1></br>
 
 
@@ -49,5 +45,7 @@ You can find more of my projects on this account. Most of my code is available o
 I'm always interested in connecting with other developers and learning from their experiences. If you'd like to get in touch, you can find me on [Twitter](https://www.x.com/DuttaBaivab/) or email me at 05baivab@gmail.com.
 
 Thanks for stopping by!
+
+<br> <h1></h1></br>
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
