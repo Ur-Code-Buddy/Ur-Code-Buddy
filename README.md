@@ -2,7 +2,6 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Ur-Code-Buddy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![Baivab Leetcode's stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://leetcode.com/u/baivabd/)
 
 
 <p align="left"> 
