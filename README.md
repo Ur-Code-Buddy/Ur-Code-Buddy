@@ -1,19 +1,23 @@
 # Baivab Dutta
 
+<h1>Contributions</h1>
 <img src="https://myreadme.vercel.app/api/embed/Ur-Code-Buddy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
+<h1>Leetcode Stats </h1>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://github.com/Ur-Code-Buddy/)
+
+<h1>Trophies</h1>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ur-code-buddy&theme=dracula&title=Commit,Experience" alt="ur-code-buddy" />
   </a> 
 </p>
-<h2>Leetcode Stats </h2>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://github.com/Ur-Code-Buddy/)
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Programming Languages -->
@@ -85,7 +89,7 @@
 <h2></h2>
 <br></br>
 
-
+<h1>A bit about myself</h1>
 Hi there! 👋
 
 My name is Baivab, and I'm a student with a passion for Arduino, electronics, and programming. Welcome to my GitHub profile!
