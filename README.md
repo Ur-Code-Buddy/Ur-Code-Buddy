@@ -1,5 +1,3 @@
-# Baivab Dutta
-
 <h1>Contributions</h1>
 <img src="https://myreadme.vercel.app/api/embed/Ur-Code-Buddy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
