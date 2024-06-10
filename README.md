@@ -9,8 +9,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ur-code-buddy&theme=dracula&title=Commit,Experience" alt="ur-code-buddy" />
   </a> 
 </p>
+<h2>Leetcode Stats </h2>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://github.com/Ur-Code-Buddy/)
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div style="display: flex; flex-wrap: wrap;">
     <!-- Programming Languages -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -75,6 +79,8 @@
     </a>
 
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ur-Code-Buddy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h2></h2>
 <br></br>
