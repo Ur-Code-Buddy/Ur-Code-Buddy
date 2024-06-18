@@ -5,10 +5,6 @@
 <img src="https://myreadme.vercel.app/api/embed/Ur-Code-Buddy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-<h1>Leetcode Stats </h1>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=baivabd)](https://github.com/Ur-Code-Buddy/)
-
 <h1>Trophies</h1>
 
 <p align="left"> 
