@@ -93,57 +93,72 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ur-Code-Buddy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!-- About Me -->
-<div style="font-family: 'Fira Code', monospace; font-size: 1.25rem; color: #555; padding: 20px; background: #f4f4f4; border-radius: 10px; max-width: 800px; margin: auto;">
+<div style="font-family: 'Fira Code', monospace; font-size: 1.25rem; color: #555; padding: 20px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); border-radius: 10px; max-width: 800px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
 
-  <h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #333; text-align: center;">A bit about myself</h1>
+  <!-- Title with Animation -->
+  <h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #333; text-align: center; margin: 0; position: relative;">
+    <svg width="100%" height="50" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#FF7E5F;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#FEB47B;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <text x="50%" y="50%" text-anchor="middle" stroke="url(#grad1)" stroke-width="1px" dy=".3em">A bit about myself</text>
+    </svg>
+  </h1>
 
-  <p style="line-height: 1.6;">
-    Hi there! 👋<br><br>
-    My name is Baivab, and if you're reading this, congratulations—you’ve stumbled upon my corner of the internet! Here’s a quick dive into who I am and what I do:
-    <br><br>
-    I’m currently a student at the Sri Aurobindo International Center of Education, studying Maths, Computer, and Electronics. My technical interests include Robotics and Programming. In other words, if it has wires or code, I’m probably intrigued by it.
-    <br><br>
-    <strong>About Me</strong>
-    <br><br>
-    When I’m not deep in code or tinkering with electronics, you might find me engaging in my favorite pastime: breaking things and trying to put them back together. Just kidding (sort of)! I enjoy exploring new technologies, learning, and occasionally over-caffeinating myself.
-    <br><br>
-    Here’s a quick rundown of my skills:
-    <br><br>
-    <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" alt="Coding with Two Monitors" width="400" style="display: block; margin: 0 auto;"/>
-    <br><br>
-    <ul style="list-style: none; padding: 0;">
-      <li><strong>Arduino</strong>: From Quad Copters to Self-Balancing Robots, I've made things that go beep, blink, and fly.</li>
-      <li><strong>Electronics</strong>: I can turn a simple circuit into something that could either save your life or just make it really interesting.</li>
-      <li><strong>Programming Languages</strong>:
-        <ul style="list-style: disc; padding-left: 20px;">
-          <li><strong>C & C++</strong>: Developed projects that range from “why did I do that?” to “hey, this actually works!”</li>
-          <li><strong>Python</strong>: Created everything from basic scripts to full-blown web applications. I promise, it’s not just for snake enthusiasts.</li>
-          <li><strong>JavaScript</strong>: I’ve been making web pages do things they probably shouldn’t, and loving every minute of it.</li>
-          <li><strong>Java</strong>: Currently learning it. Let’s just say the journey is as exciting as watching paint dry... but with more coffee.</li>
-        </ul>
-      </li>
-      <li><strong>Web Development</strong>: Building things with MERN stack. It’s like LEGO but for adults, and way more code.</li>
-    </ul>
-    <br><br>
-    <strong>My Projects</strong>
-    <br><br>
-    I've worked on:
-    <br><br>
-    <ul style="list-style: none; padding: 0;">
-      <li><strong>Arduino Project</strong>: A Smart Home Control System. Think of it as my attempt at becoming a home automation guru.</li>
-      <li><strong>Electronics Project</strong>: Wireless Sensor Network for Environmental Monitoring. I like to pretend I’m saving the planet, one sensor at a time.</li>
-      <li><strong>Python Project</strong>: Web Scraping and Data Visualization for Movie Reviews. I may not be a movie critic, but my code definitely thinks it is.</li>
-    </ul>
-    <br><br>
-    Feel free to browse through my GitHub repositories. Most of my code is open for the world to see. If you find something private and intriguing, just drop me a message—I'll be happy to share!
-    <br><br>
-    <strong>Get in Touch</strong>
-    <br><br>
-    I’m always up for a chat about tech, or just to exchange memes. Connect with me on <a href="https://www.x.com/DuttaBaivab/">Twitter</a> or email me at <a href="mailto:05baivab@gmail.com">05baivab@gmail.com</a>.
-    <br><br>
-    Thanks for dropping by!
-  </p>
+  <!-- Content with Animations -->
+  <div style="position: relative; overflow: hidden;">
+    <p style="line-height: 1.6; margin-bottom: 1.5rem;">
+      Hi there! 👋<br><br>
+      My name is Baivab, and if you're reading this, congratulations—you’ve stumbled upon my corner of the internet! Here’s a quick dive into who I am and what I do:
+      <br><br>
+      I’m currently a student at the Sri Aurobindo International Center of Education, studying Maths, Computer, and Electronics. My technical interests include Robotics and Programming. In other words, if it has wires or code, I’m probably intrigued by it.
+      <br><br>
+      <strong style="color: #FF6F61;">About Me</strong>
+      <br><br>
+      When I’m not deep in code or tinkering with electronics, you might find me engaging in my favorite pastime: breaking things and trying to put them back together. Just kidding (sort of)! I enjoy exploring new technologies, learning, and occasionally over-caffeinating myself.
+      <br><br>
+      Here’s a quick rundown of my skills:
+      <br><br>
+      <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" alt="Coding with Two Monitors" width="400" style="display: block; margin: 0 auto;"/>
+      <br><br>
+      <ul style="list-style: none; padding: 0; color: #444;">
+        <li><strong style="color: #FF6F61;">Arduino</strong>: From Quad Copters to Self-Balancing Robots, I've made things that go beep, blink, and fly.</li>
+        <li><strong style="color: #FF6F61;">Electronics</strong>: I can turn a simple circuit into something that could either save your life or just make it really interesting.</li>
+        <li><strong style="color: #FF6F61;">Programming Languages</strong>:
+          <ul style="list-style: disc; padding-left: 20px; color: #555;">
+            <li><strong style="color: #FF6F61;">C & C++</strong>: Developed projects that range from “why did I do that?” to “hey, this actually works!”</li>
+            <li><strong style="color: #FF6F61;">Python</strong>: Created everything from basic scripts to full-blown web applications. I promise, it’s not just for snake enthusiasts.</li>
+            <li><strong style="color: #FF6F61;">JavaScript</strong>: I’ve been making web pages do things they probably shouldn’t, and loving every minute of it.</li>
+            <li><strong style="color: #FF6F61;">Java</strong>: Currently learning it. Let’s just say the journey is as exciting as watching paint dry... but with more coffee.</li>
+          </ul>
+        </li>
+        <li><strong style="color: #FF6F61;">Web Development</strong>: Building things with MERN stack. It’s like LEGO but for adults, and way more code.</li>
+      </ul>
+      <br><br>
+      <strong style="color: #FF6F61;">My Projects</strong>
+      <br><br>
+      I've worked on:
+      <br><br>
+      <ul style="list-style: none; padding: 0; color: #444;">
+        <li><strong style="color: #FF6F61;">Arduino Project</strong>: A Smart Home Control System. Think of it as my attempt at becoming a home automation guru.</li>
+        <li><strong style="color: #FF6F61;">Electronics Project</strong>: Wireless Sensor Network for Environmental Monitoring. I like to pretend I’m saving the planet, one sensor at a time.</li>
+        <li><strong style="color: #FF6F61;">Python Project</strong>: Web Scraping and Data Visualization for Movie Reviews. I may not be a movie critic, but my code definitely thinks it is.</li>
+      </ul>
+      <br><br>
+      Feel free to browse through my GitHub repositories. Most of my code is open for the world to see. If you find something private and intriguing, just drop me a message—I'll be happy to share!
+      <br><br>
+      <strong style="color: #FF6F61;">Get in Touch</strong>
+      <br><br>
+      I’m always up for a chat about tech, or just to exchange memes. Connect with me on <a href="https://www.x.com/DuttaBaivab/" style="color: #FF6F61; text-decoration: none; font-weight: bold;">Twitter</a> or email me at <a href="mailto:05baivab@gmail.com" style="color: #FF6F61; text-decoration: none; font-weight: bold;">05baivab@gmail.com</a>.
+      <br><br>
+      Thanks for dropping by!
+    </p>
+  </div>
 </div>
+
 
 
 </div>
