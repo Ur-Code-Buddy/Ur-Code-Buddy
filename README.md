@@ -1,12 +1,6 @@
 <!-- Typing SVG -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&vCenter=true&width=800&color=FFFF99&lines=Baivab+here,+welcome+to+my+profile!+%F0%9F%99%8F;)
 
-<!-- Contributions Section -->
-<h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #333;">Contributions</h1>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ur-code-buddy&show_icons=true&locale=en" alt="ur-code-buddy" />
-</p>
-
 <!-- Trophies Section -->
 <h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #333;">Trophies</h1>
 <p align="left"> 
