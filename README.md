@@ -1,14 +1,6 @@
 <!-- Typing SVG -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&vCenter=true&width=800&color=FFFF99&lines=Baivab+here,+welcome+to+my+profile!+%F0%9F%99%8F;)
 
-<!-- Trophies Section -->
-<h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #333;">Trophies</h1>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ur-code-buddy&theme=dracula&title=Commit,Experience" alt="ur-code-buddy" />
-  </a> 
-</p>
-
 <!-- Languages and Tools Section -->
 <h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #fff;">Languages and Tools:</h1>
 
