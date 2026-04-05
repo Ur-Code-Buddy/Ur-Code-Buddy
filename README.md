@@ -75,9 +75,6 @@
 
 </div>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ur-Code-Buddy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <!-- About Me -->
 <div style="font-family: 'Fira Code', monospace; font-size: 1.25rem; color: #555; padding: 20px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); border-radius: 10px; max-width: 800px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
 
